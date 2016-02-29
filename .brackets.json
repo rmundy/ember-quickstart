@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Dev/ember-quickstart/bower_components/jquery/src/outro.js",
+        "C:/Dev/ember-quickstart/bower_components/qunit-notifications/karma.conf.js"
+    ]
+}
